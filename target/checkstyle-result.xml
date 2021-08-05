@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.32">
-<file name="/Users/seungyeop/Desktop/workspace/spring-petclinic/.DS_Store">
-</file>
-<file name="/Users/seungyeop/Desktop/workspace/spring-petclinic/.gitignore">
+<file name="/Users/seungyeop/Desktop/workspace/spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/SampleController.java">
 </file>
 </checkstyle>

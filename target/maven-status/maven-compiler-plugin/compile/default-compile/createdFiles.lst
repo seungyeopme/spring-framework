@@ -7,6 +7,7 @@ org/springframework/samples/petclinic/vet/Specialty.class
 org/springframework/samples/petclinic/owner/Pet.class
 org/springframework/samples/petclinic/owner/PetType.class
 org/springframework/samples/petclinic/owner/OwnerController.class
+org/springframework/samples/petclinic/owner/SampleController.class
 org/springframework/samples/petclinic/owner/PetTypeFormatter.class
 org/springframework/samples/petclinic/system/CacheConfiguration.class
 org/springframework/samples/petclinic/visit/Visit.class
