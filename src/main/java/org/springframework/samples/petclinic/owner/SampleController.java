@@ -8,12 +8,16 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class SampleController {
 
+	// @Autowired
+	// ApplicationContext applicationContext;
+
 	@Autowired
-	ApplicationContext applicationContext;
+	String seungyeop;
 
 	@GetMapping("/context")
 	public String context() {
-		return "hello" + applicationContext.getBean(OwnerRepository.class);
+		// return "hello" + applicationContext.getBean(OwnerRepository.class);
+		return "hello " + seungyeop;
 	}
 
 }
