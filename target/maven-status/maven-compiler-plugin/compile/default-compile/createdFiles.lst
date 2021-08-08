@@ -2,6 +2,7 @@ org/springframework/samples/petclinic/visit/VisitRepository.class
 org/springframework/samples/petclinic/system/CrashController.class
 org/springframework/samples/petclinic/model/Person.class
 org/springframework/samples/petclinic/system/WelcomeController.class
+org/springframework/samples/petclinic/aspect/LogExecutionTime.class
 org/springframework/samples/petclinic/PetClinicApplication.class
 org/springframework/samples/petclinic/vet/Specialty.class
 org/springframework/samples/petclinic/owner/Pet.class
@@ -13,6 +14,7 @@ org/springframework/samples/petclinic/system/CacheConfiguration.class
 org/springframework/samples/petclinic/visit/Visit.class
 org/springframework/samples/petclinic/owner/Owner.class
 org/springframework/samples/petclinic/vet/Vet.class
+org/springframework/samples/petclinic/aspect/LogAspect.class
 org/springframework/samples/petclinic/owner/OwnerRepository.class
 org/springframework/samples/petclinic/vet/VetRepository.class
 org/springframework/samples/petclinic/owner/PetRepository.class
