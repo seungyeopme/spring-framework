@@ -8,6 +8,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 import org.springframework.util.StopWatch;
 
+//강의 마무리(완강)
 @Component
 @Aspect
 public class LogAspect {
